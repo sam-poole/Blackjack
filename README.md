@@ -1,2 +1,2 @@
 # Blackjack
-blackjack against the computer with python
+blackjack with python
